@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/yY3L8Ni414=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\4give\\OneDrive\\Documents\\School Files\\C#\\Review Exercises\\ch03\\CalculateLetterGrade\\CalculateLetterGrade\\CalculateLetterGrade.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\4give\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\4give\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\4give\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\4give\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
